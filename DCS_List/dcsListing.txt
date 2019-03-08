@@ -1,0 +1,29 @@
+DCSL:
+
+SERVER=localhost\SQLEXPRESS;DATABASE=InsightEnt;UID=VIUser;PWD=V4in$ight;
+
+DCS Physical Server
+SERVER=192.168.1.100;UID=VIUser;PWD=V4in$ight;Database=InsightEnt
+
+yhcWFqEri0YoaoYuqgsOz2/SexqHPeewCx7LxoQ1MHuiv/whxPGVNGLqq4GnN0XasfR68NlYWUbn1kTAqdi8kAA=
+
+
+
+
+XSW@3edcVFR$56
+
+-------------------------------------------------------------------------------------------------------------------
+
+Nashville DCS
+
+Server14
+luN6bsB5Kqx0WEs/WBruhexi2HUkkZ27+v6X9xZSavHcrus1qFYQQt48ED2WZN0fIb/vCn5Vme5zlYdVKaYm8wA=
+
+SERVER=10.11.12.2;DATABASE=InsightEnt;UID=sa;PWD=V4in$ight;
+
+
+
+
+
+
+
